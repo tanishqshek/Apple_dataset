@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Apple</folder>
+  <filename>326f30a4d7380f96.jpg</filename>
+  <path>C:\Users\Neha Shaikh\Documents\OIDv4_ToolKit\OID\Dataset\train\Apple\326f30a4d7380f96.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>829</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>17</ymin>
+      <xmax>934</xmax>
+      <ymax>808</ymax>
+    </bndbox>
+  </object>
+</annotation>
